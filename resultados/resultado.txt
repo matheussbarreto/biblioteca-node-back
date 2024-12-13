@@ -1,0 +1,8 @@
+Paragrafo 1 não possui palavras duplicadas. 
+Paragrafo 2 não possui palavras duplicadas. 
+Palavras duplicadas no paragrafo 3: uma. 
+Paragrafo 4 não possui palavras duplicadas. 
+Paragrafo 5 não possui palavras duplicadas. 
+Paragrafo 6 não possui palavras duplicadas. 
+Palavras duplicadas no paragrafo 7: dispositivos, web, seu, conectado. 
+Palavras duplicadas no paragrafo 8: cliente, uma, para. 
